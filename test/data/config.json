@@ -1,0 +1,6 @@
+{
+    "username": "<Enter Username>",
+    "password": "<password>",
+    "sendTo": "test@icloud.com",
+    "subject": "Testing Mail App"
+}
