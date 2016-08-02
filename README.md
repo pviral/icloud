@@ -14,7 +14,7 @@
 3. run `npm install --only=dev`
 4. `npm test`
 
-*Notes*:
+##Notes
 
 1. I have assume you have Selenium standalone server install and running. If not then run following commands:
 
@@ -24,5 +24,5 @@
 
  `selenium-standalone start`
  
-2. I have verify subject and email address of receiver
+2. I have verify subject and email address
 3. Setup Instruction assume you have webdriverio, mocha and spec-reporter install on your machines
